@@ -10,7 +10,6 @@ let mod = num3 % num4;
 let max = Math.max(1,9,11,19,20)
 
 let random = Math.floor(Math.random() * 10) + 1;
-Math.isInteger(random);
 
 
 
